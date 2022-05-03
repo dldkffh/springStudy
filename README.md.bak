@@ -7,7 +7,7 @@
 ## 1. 개발환경 구축
 [IntelliJ IDEA Community 버전으로 다운]("https://www.jetbrains.com/ko-kr/idea/download/#section=windows")  
 
-[spring initializr 프로젝트 생성]("https://start.spring.io/")  
+[spring initializr 프로젝트 생성&다운]("https://start.spring.io/")  
 > 추천받은 spring initializr 세팅  
 > Project : Maven, Language : Java,Spring Boot : 2.6.7, Java : 11  
 > Dependencies : Spring Boot DevTools, Spring Web, Lombok, MariaDB Driver, MyBatis Framework  
